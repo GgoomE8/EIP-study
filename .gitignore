@@ -1,0 +1,27 @@
+# C
+c/*.exe
+c/main
+c/*.o
+c/*.out
+
+# Java
+java/*.class
+
+# Python
+python/__pycache__/
+python/*.pyc
+python/.python-version
+python/venv/
+python/env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
